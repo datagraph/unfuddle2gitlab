@@ -1,0 +1,7 @@
+*.swp
+backup.xml
+media
+notebook_*
+*.dmp
+tokens.*.p
+.vscode
